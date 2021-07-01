@@ -1,3 +1,2 @@
 #!/bin/bash
 service httpd start
-pwd>/var/www/html/test.txt
